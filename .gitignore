@@ -1,0 +1,5 @@
+#builds
+/build
+
+#workspace
+/.vscode
